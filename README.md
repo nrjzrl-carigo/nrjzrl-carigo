@@ -3,7 +3,8 @@
 def main():
     print("Hello, GitHub world! 🌎")
     print("I'm Naira Jezreel Carigo, "
-          "a BSCPE sophomore learning and building awesome tech!")
+          "a BSCPE sophomore learning "
+          "and building awesome tech!")
     print("Let's innovate together. 🚀")
 
 if __name__ == "__main__":
