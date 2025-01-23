@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile!
-
 ```python
 # her.py
 def main():
