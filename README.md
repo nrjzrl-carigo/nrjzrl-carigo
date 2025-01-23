@@ -48,4 +48,4 @@ if __name__ == "__main__":
 - **LinkedIn:** [Naira Jezreel Carigo](https://linkedin.com/in/naira-jezreel-carigo)  
 - **Email:** [qnjbcarigo@tip.edu.ph](mailto:qnjbcarigo@tip.edu.ph)  
  
-Feel free to explore my repositories and reach out for collaboration or mentorship.
+Feel free to explore my repositories and reach out for collaboration.
