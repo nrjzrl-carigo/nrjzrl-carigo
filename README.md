@@ -1,4 +1,4 @@
-# 🖥️ Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 ```python
 # her.py
@@ -12,35 +12,35 @@ if __name__ == "__main__":
 ```
 ---
 
-## 🤵‍♀️ About Me
-- 🎓 **Education:** Bachelor of Science in Computer Engineering, Technological Institute of the Philippines  
-- 🛠️ **Interests:** Software Development, Artificial Intelligence
-- 🌱 **Currently Learning:**
+## About Me
+- **Education:** Bachelor of Science in Computer Engineering, Technological Institute of the Philippines  
+- **Interests:** Software Development, Artificial Intelligence
+- **Currently Learning:**
   
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   
   (crying for help)
-- 🖤 **Hobbies:** Playing video games, watching films (horror, thriller, animations), and satisfying my food cravings
-- ⚡ **Fun fact**: I can freely make my ears move using the tensor tympani (so irrelevant pfft)
+- **Hobbies:** Playing video games, watching films (horror, thriller, animations), and satisfying my food cravings
+- **Fun fact**: I can freely make my ears move using the tensor tympani (so irrelevant pfft)
 
 
 ---
 
-## 💻 Skills
+## Skills
 
 - **Soft Skills:** Detail-Oriented, Collaboration, Adaptability, Resilient, and Diligent
 
 ---
 
-## 📚 Academic Goals
+## Academic Goals
 - Master core computer engineering subjects and programming languages.  
 - Participate in hackathons to sharpen my skills.  
 - Contribute to open-source projects to give back to the tech community.
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 - **GitHub:** [nrjzrl](https://github.com/nrjzrl)  
 - **LinkedIn:** [Naira Jezreel Carigo](https://linkedin.com/in/naira-jezreel-carigo)  
 - **Email:** [qnjbcarigo@tip.edu.ph](mailto:qnjbcarigo@tip.edu.ph)  
