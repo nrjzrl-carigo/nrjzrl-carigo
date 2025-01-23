@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
 ## 💻 Skills
 
-- **Soft Skills:** Detail-Oriented, Collaboration, Adaptability, Resilient, Diligent
+- **Soft Skills:** Detail-Oriented, Collaboration, Adaptability, Resilient, and Diligent
 
 ---
 
